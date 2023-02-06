@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaijnbxletillyawwdfwachsf2vw7nxnqtzwydyysztcuqwsgqvrta
+fingerprint=9f:99:80:b9:e2:f7:9a:49:e8:93:4e:8d:62:a6:f8:41
+tenancy=ocid1.tenancy.oc1..aaaaaaaayrlol36ofnvmeizxkaup54wf4jrndheuhuu32ngy52itvb6a3tea
+region=sa-saopaulo-1
+key_file=oci_private_key.pem
